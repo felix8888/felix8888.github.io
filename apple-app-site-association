@@ -4,7 +4,7 @@
         "details": [
             {
             "appID": "7R6ZCKSWB8.life.apeiron.ios.staging",
-            "paths": [ "*" ]
+            "paths": [ "/sign-in", "/recommends/blog/*", "/password-reset/*", "/app/*", "/redirect/*", "/client/*/detail/message", "/onboarding/*", "/membership-selection" ]
         }]
     },
     "webcredentials": {
