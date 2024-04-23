@@ -1,1 +1,16 @@
-{"webcredentials":{"apps":["T5MPYB37H6.com.anyquestions.ios"]},"applinks": {"apps": [],"details": [{"appID": "T5MPYB37H6.com.anyquestions.ios-dev","paths": [ "*"]},{"appID": "T5MPYB37H6.com.anyquestions.ios","paths": [ "*" ]}]}}
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+            	"appID": "7R6ZCKSWB8.life.apeiron.dlc.ios.staging",
+            	"paths": [ "*" ]
+            }
+	]
+    },
+    "webcredentials": {
+        "apps": [
+            "7R6ZCKSWB8.life.apeiron.dlc.ios.staging"
+        ]
+    }
+}
